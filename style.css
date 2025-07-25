@@ -4,3 +4,12 @@
 .noto {
   font-family: "Noto Serif", serif;
 }
+.animate-spin {
+  animation-duration: 3s;
+}
+a {
+  transition: 0.3s;
+}
+a:hover {
+  color: #e95a08;
+}
